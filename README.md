@@ -27,10 +27,7 @@ MD5, SHA1, SHA256, SHA512
 
 🚀 Installation
 📦 1. Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/password-analyzer-gui.git
+
 cd password-analyzer-gui
 🐍 2. Create virtual environment (optional but recommended)
 bash
